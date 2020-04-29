@@ -1,0 +1,13 @@
+.navbar-brand img {
+    width: 30px;
+    height: 30px;
+}
+
+.col-sm-3 {
+    color:purple
+}
+
+.row.mt-4 img{
+    width: 350px;
+    height: 220px;
+}
